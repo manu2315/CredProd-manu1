@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2B3A8B</color>
+    <color name="colorPrimaryDark">#2D2E96</color>
+    <color name="colorPrimaryLight">#3266CC</color>
+    <color name="colorAccent">#F0D02A</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorIcons">#FAFAFA</color>
+    <color name="colorDivider">#cfcfcf</color>
+    <color name="colorCalculator">#F1553F</color>
+    <color name="colorSearchRfc">#C0D355</color>9DB138
+    <color name="colorSearchRfcPressed">#9DB138</color>
+</resources>
